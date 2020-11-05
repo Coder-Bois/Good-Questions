@@ -1,3 +1,4 @@
 (N)->https://www.geeksforgeeks.org/nth-node-from-the-end-of-a-linked-list/              *** using two pointers ***
 (S)->https://www.geeksforgeeks.org/function-to-check-if-a-singly-linked-list-is-palindrome/    ***using two pointers ***
 (S)->https://www.geeksforgeeks.org/write-a-function-to-get-the-intersection-point-of-two-linked-lists/      ***Method 3 and 5***
+(S)->https://www.geeksforgeeks.org/reverse-a-linked-list/          ***recursive method***
